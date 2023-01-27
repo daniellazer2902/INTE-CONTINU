@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projetwebhost1
-        password: Testtest&1
+        password: Test12345
         server-dir : public_html/
